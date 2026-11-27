@@ -1,0 +1,4 @@
+upstream: https://github.com/Snektron/vulkan-zig
+commit: 400ca3cf2fc6cf4c968a2cb2333756fa2801e4b4
+license: MIT
+Unmodified snapshot except that .github/workflows was emptied.
